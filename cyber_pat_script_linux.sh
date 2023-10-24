@@ -14,5 +14,4 @@ members wheel
 members staff
 sudo locate -i *.mp3
 sudo locate -i *.mp4
-sudo locate -i *.wav
 sudo apt upgrade
