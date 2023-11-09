@@ -5,6 +5,7 @@ sudo apt update -y
 sudo apt install -y members
 sudo apt install -y net-tools
 sudo apt install -y locate
+sudo apt install -y nmap
 cat /etc/passwd
 sudo ufw status
 sudo ufw enable
